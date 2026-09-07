@@ -1,7 +1,7 @@
-# Client Contact & Website Launch Support
+# Contact Database & Website Launch Support
 
-Executive assistant workspace for tracking the contact database cleanup and
-the website launch handoff — kept in GitHub so progress, decisions, and file
+Workspace for tracking the contact database cleanup and
+the website launch handoff. I kept in GitHub so progress, decisions, and file
 versions are never lost in email threads.
 
 ## What lives here
@@ -18,9 +18,3 @@ versions are never lost in email threads.
 - [ ] Full contact backlog imported and structured
 - [ ] Website content finalized and moved off the test server
 - [ ] Email campaign platform connected
-
-## Why GitHub for this
-
-- **One source of truth** — every file version is saved automatically, so nothing gets overwritten or lost between the EA and the client.
-- **Visible progress** — Issues and this README double as a lightweight project tracker the client can check anytime, without a status-update email.
-- **Website-ready** — GitHub Pages can publish a static site directly from this repository, which is the fastest path off the test server.
